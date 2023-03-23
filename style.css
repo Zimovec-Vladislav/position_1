@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+
+    background-color: #b5b5b5;
+}
+
+.composition {
+    width: 650px;
+    height: 400px;
+    margin: 20px auto;
+
+    background-color: cornflowerblue ;
+
+    position: relative;
+
+}
